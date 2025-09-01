@@ -1,8 +1,8 @@
 class Watcher < Formula
   desc "Filesystem watcher, works anywhere, simple, efficient and friendly"
   homepage "https://github.com/e-dant/watcher"
-  url "https://github.com/e-dant/watcher/archive/refs/tags/0.13.6.tar.gz"
-  sha256 "d2a9890b5d394311ca08cea53f6ecc1e9e2566a5adfe4e829a26ac1d7d974dfa"
+  url "https://github.com/e-dant/watcher/archive/refs/tags/0.13.7.tar.gz"
+  sha256 "d9b65ba4aaba325d113fc0a307c9cc297a09eaf72de0c22496a4848aea9a2893"
   license "MIT"
   head "https://github.com/e-dant/watcher.git", branch: "release"
 
